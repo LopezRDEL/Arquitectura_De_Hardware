@@ -3,6 +3,8 @@
 - Karen Jhojana Camacho Castellanos
 - Edwin Soto Escarraga
 - Diego Esteban Lopez Rico
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/173861b0-7dbb-40e7-84e7-c4a32c776021" />
+
 
 ### Objetivo general
 Comprender el funcionamiento del temporizador TL555 mediante la implementación de un circuito oscilador.
