@@ -1,9 +1,41 @@
-# Arquitectura_De_Hardware
-Laboratorio #1
+## Laboratorio
+## Integrantes
+- Karen Jhojana Camacho Castellanos
+- Edwin Soto Escarraga
+- Diego Esteban Lopez Rico
 
-INTRODUCCION: 
-En este laboratorio se utilizaron diferentes intrumentos para elaborar un circuito, entre estos elementos encontramos los circuitos osciladores son fundamentales para generar señales periódicas utilizadas en diferentes aplicaciones como temporizadores, generadores de pulsos y sistemas de control. Uno de los dispositivos más utilizados para este propósito es el temporizador TL555, debido a su versatilidad y facilidad de configuración en distintos modos de operación
+### Objetivo general
+Comprender el funcionamiento del temporizador TL555 mediante la implementación de un circuito oscilador.
 
+### Objetivos específicos
+- Identificar los pines del temporizador TL555.
+- Implementar un circuito básico utilizando el TL555.
+- Analizar el comportamiento de la señal generada.
+
+## Materiales
+
+- Temporizador TL555
+- Protoboard
+- Resistencias
+- Capacitores
+- Fuente de alimentación
+- Cables de conexión
 
 <img width="217" height="178" alt="image" src="https://github.com/user-attachments/assets/c63692d0-0ed1-4752-a620-d1258f44047a" />
+
+## Procedimiento
+
+1. Identificar los pines del temporizador TL555.
+2. Conectar el circuito en la protoboard según el diagrama proporcionado.
+3. Alimentar el circuito con la fuente de voltaje.
+4. Verificar el comportamiento de la señal generada.
+
+## Resultados
+
+Aquí se presentan los resultados obtenidos durante la implementación del circuito.
+
+## Conclusiones
+
+En este laboratorio se logró comprender el funcionamiento básico del temporizador TL555 y su aplicación en la generación de señales periódicas.
+
 
