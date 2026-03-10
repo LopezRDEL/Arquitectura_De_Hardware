@@ -36,6 +36,22 @@ Comprender el funcionamiento del temporizador TL555 mediante la implementación 
 
 Aquí se presentan los resultados obtenidos durante la implementación del circuito.
 
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/4da351a5-6c6b-404c-8b0c-7d92d08311d1" />
+
+
+En la imagen se puede observar el circuito armado sobre una protoboard, donde se encuentran los siguientes componentes principales:
+
+- Temporizador **TL555**, encargado de generar la señal periódica.
+- **Resistencias**, utilizadas para controlar el tiempo de carga y descarga del capacitor.
+- **Capacitores electrolíticos**, que junto con las resistencias determinan el periodo de la señal generada.
+- **LED**, utilizado como indicador visual de la salida del circuito.
+- **Fuente de alimentación**, conectada mediante cables a los rieles de la protoboard.
+
+El LED rojo que se observa encendido corresponde a la **salida del temporizador**, lo cual indica que el circuito está funcionando correctamente. En configuración astable, el TL555 genera una señal cuadrada que provoca que el LED encienda y apague periódicamente, permitiendo visualizar el comportamiento oscilatorio del circuito.
+
+Este comportamiento confirma que el temporizador está generando una señal periódica, cumpliendo con el objetivo del laboratorio de implementar un **oscilador utilizando el circuito integrado TL555**.
+
+
 ## Conclusiones
 
 En este laboratorio se logró comprender el funcionamiento básico del temporizador TL555 y su aplicación en la generación de señales periódicas.
