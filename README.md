@@ -35,6 +35,8 @@ Comprender el funcionamiento del temporizador TL555 mediante la implementación 
 ## Resultados
 
 Aquí se presentan los resultados obtenidos durante la implementación del circuito.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5d562d87-2ac1-4132-a6a7-69984e0c888c" />
+
 
 ## Conclusiones
 
