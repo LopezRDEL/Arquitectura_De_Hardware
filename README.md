@@ -29,8 +29,11 @@ Comprender el funcionamiento del temporizador TL555 mediante la implementación 
 
 1. Identificar los pines del temporizador TL555.
 2. Conectar el circuito en la protoboard según el diagrama proporcionado.
-3. Alimentar el circuito con la fuente de voltaje.
-4. Verificar el comportamiento de la señal generada.
+3. Se calcularon los valores de las resistencias usando la fórmula (R1+R2 = T/LN(2)*C)
+4. Alimentar el circuito con la fuente de voltaje.
+5. Verificar el comportamiento de la señal generada.
+<img width="1000" height="746" alt="image" src="https://github.com/user-attachments/assets/89183279-e9e6-4aed-9498-746fa825f175" />
+
 
 ## Resultados
 
