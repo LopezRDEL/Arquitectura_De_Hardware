@@ -79,6 +79,8 @@ Instrumento portátil de medición eléctrica utilizado para medir voltaje, corr
 ## Alimentación
 Batería interna de 9 V
 
+
+<br><img width="217" height="178" alt="image" src="https://github.com/user-attachments/assets/403082fd-b424-4fd4-9e2c-1c2079d8f8ed" />
 ---
 
 # 3. Fuente de Alimentación de Laboratorio
@@ -121,3 +123,5 @@ Fuente de alimentación regulable utilizada para suministrar voltaje y corriente
 - Pruebas de laboratorio
 - Desarrollo de prototipos
 - Prácticas educativas en electrónica
+
+<br><img width="217" height="178" alt="image" src="https://github.com/user-attachments/assets/580d1645-c285-40e3-8680-a929ae96e7d7" />
