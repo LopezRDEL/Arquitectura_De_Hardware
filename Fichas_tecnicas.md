@@ -33,6 +33,7 @@ Instrumento de medición utilizado para visualizar y analizar señales eléctric
 
 ## Alimentación
 100 – 240 V AC
+<img width="217" height="178" alt="image" src="https://github.com/user-attachments/assets/725cab2b-ebf4-4a8b-b32d-3055ab65a118" />
 
 ---
 
