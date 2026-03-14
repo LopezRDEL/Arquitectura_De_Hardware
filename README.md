@@ -40,6 +40,8 @@ Comprender el funcionamiento del temporizador TL555 mediante la implementación 
 Aquí se presentan los resultados obtenidos durante la implementación del circuito.1
 
 <img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/049a0c44-3e8f-4113-b819-95a73a464584" />
+![image alt] (https://github.com/LopezRDEL/Arquitectura_De_Hardware/blob/334f1c9f99f97300cead8ad0e715477e0f0b16ba/GIFCircuito%20(2).gif)
+
 
 En la imagen se puede observar el circuito armado sobre una protoboard, donde se encuentran los siguientes componentes principales:
 
